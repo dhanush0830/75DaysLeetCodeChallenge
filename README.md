@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/2352-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0733-flood-fill](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [1672-richest-customer-wealth](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
+| [2352-equal-row-and-column-pairs](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/2352-equal-row-and-column-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -386,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
